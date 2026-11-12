@@ -1,0 +1,8 @@
+{
+  "name": "Анамыздың 50 Жас Мерейтойына Шақыру",
+  "description": "Асыл анамыздың 50 жас мерейтойына арналған салтанатты шақыру сайты және қонақтарды тіркеу жүйесі.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
